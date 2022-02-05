@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"EX7-SWAP-WITHOUT-TEMP.C": "cpp"
+		}
+	}
+}
