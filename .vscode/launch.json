@@ -9,13 +9,13 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "d:/1.Mohamed/embedded diploma/eng kerelos diploma/Assig/unit2/cBasics/HOME_WORK1/EX7-SWAP-WITHOUT-TEMP",
+      "cwd": "d:/1.Mohamed/embedded diploma/eng kerelos diploma/Assig/unit2/cBasics/HOME_WORK2/ex2-vowel-consonant",
       "environment": [],
-      "program": "d:/1.Mohamed/embedded diploma/eng kerelos diploma/Assig/unit2/cBasics/HOME_WORK1/EX7-SWAP-WITHOUT-TEMP/build/Debug/outDebug",
+      "program": "d:/1.Mohamed/embedded diploma/eng kerelos diploma/Assig/unit2/cBasics/HOME_WORK2/ex2-vowel-consonant/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
-      "externalConsole": false,
+      "externalConsole": true,
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
