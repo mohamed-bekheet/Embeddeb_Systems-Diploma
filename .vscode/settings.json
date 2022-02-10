@@ -26,5 +26,8 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "files.associations": {
+    "EX7-SWAP-WITHOUT-TEMP.C": "cpp"
+  }
 }

@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     int num1, num2,*swaper;
+    num1=1;
+    num2=2;
     printf("Enter value of a: ");
     scanf("%d", &num1);
     printf("Enter value of b: ");
