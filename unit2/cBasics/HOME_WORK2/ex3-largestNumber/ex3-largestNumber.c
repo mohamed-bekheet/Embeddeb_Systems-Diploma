@@ -2,7 +2,7 @@
 
 int main()
 {
-    float nums[3];
+    float nums[3]={0};
     float largest_num = 0;
     //printf("\nEnter first num :");
     for (int i = 0; i < 3; i++)
